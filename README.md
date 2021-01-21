@@ -1,8 +1,6 @@
 # openbible
 
-##### Voditelj projekta: **Lidija Košir**   [email](mailto:kosir.lidija@gmail.com)
-##### Voditelj razvoja: **Milan Košir**     [email](mailto:kosir.milan@gmail.com)
-##### Voditelj marketinga: **Toni Žufič**   [email](mailto:tonizufic@yahoo.com)
+##### Razvoj: **Milan Košir**     [email](mailto:kosir.milan@gmail.com)
 
 
 [![Join the chat at https://gitter.im/Open-Bible-Group/Lobby](https://badges.gitter.im/Open-Bible-Group/Lobby.svg)](https://gitter.im/Open-Bible-Group/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
